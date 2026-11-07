@@ -1,0 +1,20 @@
+
+{
+    "geode": "6.0.0-alpha.1",
+    "gd": {
+        "win": "2.2091"
+    },
+    "id": "geotips.textplay",
+    "name": "TextPlay",
+    "version": "1.0.0",
+    "developer": "geotips",
+    "description": "Replaces the Play button with text.",
+    "settings": {
+        "replace-play-button": {
+            "name": "Enabled",
+            "description": "Show the Play button as text.",
+            "type": "bool",
+            "default": true
+        }
+    }
+}
